@@ -32,7 +32,9 @@ class _SplashViewState extends State<SplashView> {
             children: [
               SizedBox(
                 height: 150,
-                width: 150,
+              
+              
+
                 child: const Icon(
                   Icons.cruelty_free,
                   size: 100,
